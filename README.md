@@ -46,4 +46,57 @@
 
 ---
 
+
+<h1 align="center">Hey there, I'm 👋 Parth Maheshwari</h1>
+<p align="center">Frontend Developer | Competitive Programmer</p>
+
+---
+
+### 👨‍💻 About Me
+
+* 🎓 Recently completed my B.Tech in **Information Technology** at **A. D. Patel Institute of Technology**, graduating in **mid-2025**.
+* 🌍 Passionate about solving **real-world problems** that make a meaningful impact.
+* 💻 A **web enthusiast** who enjoys turning ideas into functional and beautiful web experiences.
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend:**
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+**Backend:**
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+**Other Tools:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Parthmaheshwari2410&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Parth's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Parthmaheshwari2410&theme=dark&hide_border=false" alt="Parth's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Parthmaheshwari2410&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Parth's Top Languages" />
+</p>
+
+---
+
+
 <p align="center">⚡ Keep learning. Keep building. Keep growing.</p>
